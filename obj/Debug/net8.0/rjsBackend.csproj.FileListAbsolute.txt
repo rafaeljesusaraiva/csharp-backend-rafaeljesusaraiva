@@ -41,3 +41,4 @@
 /Users/rafaeljesusaraiva/Desktop/Web-Work/rjsBackend/bin/Debug/net8.0/Npgsql.dll
 /Users/rafaeljesusaraiva/Desktop/Web-Work/rjsBackend/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/rafaeljesusaraiva/Desktop/Web-Work/rjsBackend/bin/Debug/net8.0/System.CodeDom.dll
+/Users/rafaeljesusaraiva/Desktop/Web-Work/rjsBackend/obj/Debug/net8.0/rjsBackend.sourcelink.json

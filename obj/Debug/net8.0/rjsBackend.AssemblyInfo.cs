@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rjsBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a2b30f3d69470cf02b57635873386ab0dd5ea94")]
 [assembly: System.Reflection.AssemblyProductAttribute("rjsBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rjsBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
