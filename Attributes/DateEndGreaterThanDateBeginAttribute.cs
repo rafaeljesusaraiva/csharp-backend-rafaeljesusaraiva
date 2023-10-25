@@ -1,3 +1,5 @@
+#nullable disable
+
 using System.ComponentModel.DataAnnotations;
 
 [AttributeUsage(AttributeTargets.Property, AllowMultiple = false, Inherited = true)]
